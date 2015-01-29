@@ -1,7 +1,7 @@
 {
-  "name": "angular-localize",
+  "name": "angular-localize-dynamic",
   "version": "1.0.1",
-  "title": "angular-localize",
+  "title": "angular-localize-dynamic",
   "description": "A localization module for AngularJS.",
   "keywords": [
     "angular",
